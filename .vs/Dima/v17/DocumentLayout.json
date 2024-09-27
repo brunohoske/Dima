@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meus arquivos\\Visual Studio\\Dima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|d:\\meus arquivos\\visual studio\\dima\\dima.api\\data\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\data\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|d:\\meus arquivos\\visual studio\\dima\\dima.api\\data\\mappings\\transactionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\data\\mappings\\transactionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|d:\\meus arquivos\\visual studio\\dima\\dima.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|d:\\meus arquivos\\visual studio\\dima\\dima.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|d:\\meus arquivos\\visual studio\\dima\\dima.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|D:\\Meus arquivos\\Visual Studio\\Dima\\dima.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|D:\\Meus arquivos\\Visual Studio\\Dima\\dima.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|d:\\meus arquivos\\visual studio\\dima\\dima.api\\dima.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0617715F-577A-4AE2-ADC6-9FEBD8756B08}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\dima.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|D:\\Meus arquivos\\Visual Studio\\Dima\\dima.core\\dima.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\dima.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|D:\\Meus arquivos\\Visual Studio\\Dima\\dima.core\\enums\\etransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9FDA3-B0A4-4B29-925C-02327BE38AEB}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\enums\\etransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Dima.Api\\appsettings.json",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\appsettings.json",
+              "RelativeToolTip": "Dima.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T00:44:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionMapping.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Data\\Mappings\\TransactionMapping.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Data\\Mappings\\TransactionMapping.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Data\\Mappings\\TransactionMapping.cs",
+              "RelativeToolTip": "Dima.Api\\Data\\Mappings\\TransactionMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:31:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryMapping.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Data\\Mappings\\CategoryMapping.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Data\\Mappings\\CategoryMapping.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Data\\Mappings\\CategoryMapping.cs",
+              "RelativeToolTip": "Dima.Api\\Data\\Mappings\\CategoryMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:22:48.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Dima.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:47:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dima.Api",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Dima.Api.csproj",
+              "RelativeDocumentMoniker": "Dima.Api\\Dima.Api.csproj",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Dima.Api.csproj",
+              "RelativeToolTip": "Dima.Api\\Dima.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T23:45:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Program.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Api\\Program.cs",
+              "RelativeToolTip": "Dima.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:55:10.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ETransactionType.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Core\\Enums\\ETransactionType.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Enums\\ETransactionType.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Core\\Enums\\ETransactionType.cs",
+              "RelativeToolTip": "Dima.Core\\Enums\\ETransactionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:37:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Core\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Models\\Transaction.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Core\\Models\\Transaction.cs",
+              "RelativeToolTip": "Dima.Core\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:22:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Models\\Category.cs",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.Core\\Models\\Category.cs",
+              "RelativeToolTip": "Dima.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:20:20.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dima.Core.csproj",
+              "DocumentMoniker": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.core\\Dima.Core.csproj",
+              "RelativeDocumentMoniker": "Dima.core\\Dima.Core.csproj",
+              "ToolTip": "D:\\Meus arquivos\\Visual Studio\\Dima\\Dima.core\\Dima.Core.csproj",
+              "RelativeToolTip": "Dima.core\\Dima.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T20:55:09.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
